@@ -35,7 +35,7 @@ class NonChiestoHBot(commands.Bot):
 if __name__ == "__main__":
     client = NonChiestoHBot(command_prefix="!", case_insensitive=True)
     client.load()
-    client.run('ODg3Nzg5ODExNzE1NDM2NTk2.YUJQsQ.soHNFrtfOrKOee1I2EMX3dW8oyg')
+    client.run('---')
 
 
     
